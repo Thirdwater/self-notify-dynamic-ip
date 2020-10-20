@@ -1,0 +1,13 @@
+# Project-specifics
+last-ip.json
+
+# Environments
+venv
+.env
+
+# Python
+__pycache__
+*.pyc
+
+# Misc.
+*.sw[po]
